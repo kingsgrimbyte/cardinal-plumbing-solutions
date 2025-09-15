@@ -1,0 +1,29 @@
+{
+  "metaTitle": "Licensed Plumber in [location] | Cardinal Plumbing Solutions - About Us",
+  "metaDescription": "Looking for a reliable plumber in [location]? Cardinal Plumbing Solutions offers 24/7 emergency plumbing, drain cleaning, water heater repair, leak detection, and sewer services. Licensed & insured. Call [phone]",
+  "bannerQuote": "",
+  "bannerImage": "https://ik.imagekit.io/z6skgnupx/cardinalplumbingsolutions_com/Plumbing_Services_about_bannerImage_ym5AhZgA8.jpg",
+  "h1Banner": "Licensed Plumber in [location] | Cardinal Plumbing Solutions - About Us",
+  "p1Banner": "Looking for a reliable plumber in [location]? Cardinal Plumbing Solutions offers 24/7 emergency plumbing, drain cleaning, water heater repair, leak detection, and sewer services. Licensed & insured. Call [phone]",
+  "p2": "Cardinal Plumbing Solutions is your local plumbing expert serving [location] with fast, professional service for homeowners and businesses. Whether it’s a burst pipe, stubborn drain clog, sewer backup, or a malfunctioning water heater, our certified plumbers arrive with the right tools and parts to fix the problem quickly. We specialize in emergency plumbing, drain cleaning, hydro-jetting, slab leak detection, trenchless sewer repair, repiping, and routine maintenance. We deliver transparent pricing, free estimates, and workmanship warranties so you know the job is done right. Because we’re local to [location], we provide faster response times, trusted customer care, and the in-person attention big chains can’t match. Searching for a \"plumber near me\" or the best plumbing company in [location]? Cardinal Plumbing Solutions is available 24/7 to restore your plumbing and protect your property.",
+  "h2Image": "https://ik.imagekit.io/z6skgnupx/cardinalplumbingsolutions_com/Plumbing_Services_about_h2Image_cq_rFl-Gg.jpg",
+  "missionSection": [
+    {
+      "title": "Our Mission",
+      "description": "To provide fast, professional plumbing services in [location] with honest pricing, exceptional workmanship, and reliable 24/7 emergency response—so homeowners and businesses can trust their plumbing is in capable hands."
+    },
+    {
+      "title": "Our Vision",
+      "description": "To be [location]’s most trusted plumbing company by combining skilled technicians, modern diagnostics (like video sewer inspection and leak detection), and outstanding customer service to deliver long-lasting solutions."
+    },
+    {
+      "title": "Our Values",
+      "description": "Safety, integrity, transparency, and respect for your home or business. We arrive on time, diagnose accurately, explain options clearly, and complete every job with care—protecting your property and your budget."
+    }
+  ],
+  "areaweserveSection": {
+    "description": "We proudly provide full-service plumbing in [location], serving residential homes, multi-family properties, commercial sites, and construction projects with emergency repairs, preventive maintenance, and system upgrades.",
+    "linkText": "Check our Plumbing Service locations here.",
+    "link": "/locations"
+  }
+}
